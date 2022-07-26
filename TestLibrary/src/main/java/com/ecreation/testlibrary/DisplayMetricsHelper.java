@@ -13,6 +13,7 @@ public class DisplayMetricsHelper {
         }
         return displayMetrics.widthPixels;
     }
+    //asd
 
     public static int getScreenHeight(Activity activity){
         DisplayMetrics displayMetrics = new DisplayMetrics();
